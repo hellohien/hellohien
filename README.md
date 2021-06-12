@@ -22,7 +22,10 @@ I'm a Front End Developer based in Southern California. I have a passion for dev
 > 🌮 [What's Cooking?](https://github.com/hnguy96/whats-cooking) - A dynamic application that allows users to take a quiz and generate a recipe
 
 ## My Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnguy96&&count_private=true&hide=stars,issues,contribs&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnguy96&&count_private=true&hide=stars,issues,contribs&theme=vue)](https://github.com/anuraghazra/github-readme-stats) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/hnguy96/github-readme-stats)
+
+
 
 ## Skills
 <a href="https://github.com/hnguy96"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> 
