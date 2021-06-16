@@ -18,14 +18,8 @@ Here are some ideas to get you started:
 I'm a Front End Developer based in Southern California. I have a passion for developing accessible, user-friendly websites that engage users through    responsive design and creative flairs.
 
 ## Current Projects
-> ✈️ [Travel Memories](https://github.com/hnguy96/travel-memories) - A full-stack application to capture your travel memories and plot where you've traveled to on a map <br/>
-> 🌮 [What's Cooking?](https://github.com/hnguy96/whats-cooking) - A dynamic application that allows users to take a quiz and generate a recipe
-
-## My Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnguy96&&count_private=true&hide=stars,issues,contribs&theme=vue)](https://github.com/anuraghazra/github-readme-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/hnguy96/github-readme-stats)
-
-
+> ✈️ [Travel Memories](https://github.com/hnguy96/travel-memories) - A travel diary to capture your memories and plot where you've traveled to on a map <br/>
+> 🌮 [What's Cooking?](https://github.com/hnguy96/whats-cooking) - An app that allows users to generate a recipe from a curated database and save recipes for later
 
 ## Skills
 <a href="https://github.com/hnguy96"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> 
@@ -38,9 +32,12 @@ I'm a Front End Developer based in Southern California. I have a passion for dev
 <a href="https://github.com/hnguy96"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a> 
 <a href="https://github.com/hnguy96"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
 <a href="https://github.com/hnguy96"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a> 
-<a href="https://github.com/hnguy96"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
+<a href="https://github.com/hnguy96"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a> <br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnguy96&&count_private=true&hide=stars,issues,contribs&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/hnguy96/github-readme-stats)
 
 ## Connect With Me
 - [Portfolio](https://www.hellohien.com/) <br/>
 - [Linkedin](https://www.linkedin.com/in/hnguy96/) <br/>
+- [Resume](https://drive.google.com/file/d/1rwxwNHIzcPREOXot3UzmC0rxpaVyTq0i/view) <br/>
 - [Email](mailto:contact@hellohien.com) <br/>
