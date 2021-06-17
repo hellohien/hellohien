@@ -31,7 +31,7 @@ A full-stack application for people who love to travel and document their memori
 
 <p align="center">
   <img width="80%" loading="lazy" src="travel-memories.gif" />
-</p> <br/><br/>
+</p> <br/>
 
 ### What's Cooking?
 A dynamic HTML, CSS, and JavaScript application that allows users to take a quiz and generate a custom recipe. <br/>
@@ -40,7 +40,7 @@ A dynamic HTML, CSS, and JavaScript application that allows users to take a quiz
 
 <p align="center">
   <img width="80%" loading="lazy" src="whats-cooking.gif" />
-</p> <br/><br/>
+</p> <br/>
 
 ## Skills
 <a href="https://github.com/hnguy96"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
