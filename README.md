@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I'm a Front End Developer based in Southern California. I have a passion for developing accessible, user-friendly websites that engage users through    responsive design and creative flairs.
 
+When I'm not 👩‍💻 , you can find me exploring nature or working on my jewelry brand, Lucky Dreamer.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnguy96&&count_private=true&hide=stars,issues,contribs&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Current Projects
