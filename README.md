@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Front End Developer based in Southern California. I have a passion for developing accessible, user-friendly websites that engage users through responsive design and creative flairs.
+I'm a Web Developer based in Southern California. I have a passion for developing accessible, user-friendly websites that engage users through responsive design and creative flairs.
 
 When I'm not 👩‍💻 , you can find me exploring nature or working on my jewelry brand, Lucky Dreamer.
 
