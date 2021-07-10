@@ -23,7 +23,7 @@ When I'm not coding, you can find me exploring nature or working on my jewelry b
 
 ## Projects
 ### Travel Memories
-🚧 Currently working on registration and authentication features 🚧
+🚧 Currently working on User Authentication 🚧
 
 A full-stack application for people who love to travel and document their memories. This travel diary not only captures your experiences, but also enables you to plot where you've traveled to on a map! <br/>
 
