@@ -58,5 +58,5 @@ A dynamic HTML, CSS, and JavaScript application that allows users to take a quiz
 ## Connect With Me
 - [Portfolio](https://www.hellohien.com/) <br/>
 - [Linkedin](https://www.linkedin.com/in/hnguy96/) <br/>
-- [Resume](https://drive.google.com/file/d/1rwxwNHIzcPREOXot3UzmC0rxpaVyTq0i/view) <br/>
+- [Resume](https://drive.google.com/file/d/1UmjrtGYexI7IqGa3xsEq336soWEHV3dU/view) <br/>
 - [Email](mailto:contact@hellohien.com) <br/>
