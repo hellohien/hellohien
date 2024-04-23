@@ -15,32 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Web Developer based in Southern California. I’m dedicated to developing accessible, user-friendly websites that engage users through responsive design and creative flairs.
-
-When I’m not coding, you can catch me exploring nature, hanging out with my cat, or working on my jewelry brand, Lucky Dreamer.
+I'm a Software Developer based in Orange County, CA. I’m dedicated to developing accessible, user-friendly applications that engage users through responsive design and creative flairs.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellohien&&count_private=true&hide=stars,issues,contribs&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-## Projects
-### Travel Memories
-🚧 Currently working on User Authentication 🚧
-
-A full-stack application for people who love to travel and document their memories. This travel diary not only captures your experiences, but also enables you to plot where you've traveled to on a map! <br/>
-
-[View Live](https://travel-memories-journal.herokuapp.com/) | [Source Code](https://github.com/hellohien/travel-memories)
-
-<p align="center">
-  <img width="80%" loading="lazy" src="travel-memories.gif" />
-</p> <br/>
-
-### What's Cooking?
-A dynamic HTML, CSS, and JavaScript application that allows users to take a quiz and generate a custom recipe. <br/>
-
-[View Live](https://hellohien.github.io/whats-cooking/) | [Source Code](https://github.com/hellohien/whats-cooking)
-
-<p align="center">
-  <img width="80%" loading="lazy" src="whats-cooking.gif" />
-</p> <br/>
 
 ## Skills
 <a href="https://github.com/hellohien"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
@@ -56,7 +33,5 @@ A dynamic HTML, CSS, and JavaScript application that allows users to take a quiz
 <a href="https://github.com/hellohien"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a> <br/>
 
 ## Connect With Me
-- [Portfolio](https://www.hellohien.com/) <br/>
 - [Linkedin](https://www.linkedin.com/in/hnguy179/) <br/>
-- [Resume](https://drive.google.com/file/d/1UmjrtGYexI7IqGa3xsEq336soWEHV3dU/view) <br/>
-- [Email](mailto:hien@hellohien.com) <br/>
+- [Email](mailto:hientn179@gmail.com) <br/>
