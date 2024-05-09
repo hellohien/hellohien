@@ -34,5 +34,4 @@ I'm a Software Developer based in Orange County, CA. I’m dedicated to developi
 <a href="https://github.com/hellohien"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a> <br/>
 
 ## Connect With Me
-- [Linkedin](https://www.linkedin.com/in/hnguy179/) <br/>
 - [Email](mailto:hientn179@gmail.com) <br/>
