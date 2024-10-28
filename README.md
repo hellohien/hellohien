@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 I’m a software developer based in Southern California, specializing in building user-friendly and accessible applications using technologies like JavaScript, TypeScript, React, Next.js, and React Native. I’m passionate about creating solutions that make a positive impact and contribute to sustainable, inclusive experiences.
 
-I’m always eager to grow, learn, and connect with others in the software development community.
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellohien&&count_private=true&hide=stars,issues,contribs&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
