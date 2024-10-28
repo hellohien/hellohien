@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software Developer based in Orange County, CA. I’m dedicated to developing accessible, user-friendly applications that engage users through responsive design and creative flairs.
+I’m a software developer based in Southern California, specializing in building user-friendly and accessible applications using technologies like JavaScript, TypeScript, React, Next.js, and React Native. I’m passionate about creating solutions that make a positive impact and contribute to sustainable, inclusive experiences.
+
+I’m always eager to grow, learn, and connect with others in the software development community.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellohien&&count_private=true&hide=stars,issues,contribs&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -34,4 +36,5 @@ I'm a Software Developer based in Orange County, CA. I’m dedicated to developi
 <a href="https://github.com/hellohien"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a> <br/>
 
 ## Connect With Me
-- [Email](mailto:hientn179@gmail.com) <br/>
+Email: hientn179@gmail.com
+LinkedIn: linkedin.com/in/hnguy179/
