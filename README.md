@@ -35,5 +35,4 @@ I’m a software developer based in Southern California, specializing in buildin
 <a href="https://github.com/hellohien"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a> <br/>
 
 ## Connect With Me
-Email: hientn179@gmail.com <br/>
-LinkedIn: [linkedin.com/in/hnguy179/](https://www.linkedin.com/in/hnguy179/)
+Email: hientn179@gmail.com
